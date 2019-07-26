@@ -1,0 +1,5 @@
+(11:25:46): User did not fill out form correctly
+(11:29:12): During checking our to, subject and headers one of these were empty.
+(11:29:32): During checking our to, subject and headers one of these were empty.
+(11:30:28): During checking our to, subject and headers one of these were empty.
+(11:31:01): During checking our to, subject and headers one of these were empty.
